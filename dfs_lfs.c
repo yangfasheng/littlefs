@@ -10,7 +10,7 @@
 #include <string.h>
 
 #ifndef RT_DEF_LFS_DRIVERS
-    #define RT_DEF_LFS_DRIVERS 1
+    #define RT_DEF_LFS_DRIVERS 5
 #endif
 
 #if (RT_DEF_LFS_DRIVERS < 1)
